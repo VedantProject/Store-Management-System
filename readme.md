@@ -230,4 +230,4 @@ This project demonstrates:
 
 ## Author
 
-**Vedant Kasat**s
+**Vedant Kasat**
